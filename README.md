@@ -1,3 +1,3 @@
-# porfolio
+# PORTFOLIO
 
-Portifolio do Pablo
+Portfolio do Pablo
